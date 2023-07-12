@@ -12,3 +12,6 @@ https://github.com/SmartPracticeschool/SBSPS-Challenge-2700-Twitter-Sentiment-An
 
 4) All Emotions
 https://github.com/SmartPracticeschool/SBSPS-Challenge-3631-Sentimental-Analysis-/blob/master/Model%20training.ipynb
+
+5) Spacy
+https://spacy.io/universe/project/spacy-textblob
